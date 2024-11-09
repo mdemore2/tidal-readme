@@ -23,5 +23,9 @@ token = oauth.fetch_token(token_url='https://auth.tidal.com/v1/oauth2/token', cl
 
 print(token)
 
+
+resp = oauth.get(f"{api_url}/albums/370954635")
+print(resp)
+
 resp = oauth.get(f"{api_url}/users/{user_id}/relationships/publicProfile")
 print(resp)

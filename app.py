@@ -28,16 +28,33 @@ home = session.home()
 #home.categories.extend(session.videos().categories)
 
 prev = date.today().replace(day=1) - timedelta(days=1)
-print(prev.year)
-print(prev.month)
+year = str(prev.year - 1)
+month = prev.strftime('%B %Y')
 
 for category in home.categories:
-    print(category.title)
     if category.title == "Your listening history":
-        print("in match")
         for item in category.items:
-            if isinstance(item, Mix):
+            if item.title == year:
                 print(item.title)
+                last_year = item.get()
+                last_year_thumbnail_url = last_year.image()
+                tracks = last_year.items()
+                track_list = []
+                for i in range(0, 5):
+                    track_list.append(tracks[i]._get(tracks[i].id))            
+            elif item.title == month:
+                print(item.title)
+                last_month = item.get()
+                last_month_thumbnail_url = last_month.image()
+                tracks = last_month.items()
+                track_list = []
+                for i in range(0, 5):
+                    track_list.append(tracks[i]._get(tracks[i].id))
+
+                print(track_list)
+                print(track_list[0].artist.name)
+                print(track_list[0].name)
+
 
 
 

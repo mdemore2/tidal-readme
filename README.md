@@ -9,15 +9,15 @@ Github README Tidal Integration
 | Track | Artist |
 | :-: | :-: |
 
-| Just Shadows| Parquet Courts|
+| Just Shadows | Parquet Courts |
 
-| 4 American Dollars| U.S. Girls|
+| 4 American Dollars | U.S. Girls |
 
-| Impostor Syndrome| Sidney Gish|
+| Impostor Syndrome | Sidney Gish |
 
-| Expert In A Dying Field| The Beths|
+| Expert In A Dying Field | The Beths |
 
-| to Perth, before the border closes| Julia Jacklin|
+| to Perth, before the border closes | Julia Jacklin |
 
 
 ### Last year
@@ -25,12 +25,12 @@ Github README Tidal Integration
 | Track | Artist |
 | :-: | :-: |
 
-| Sarah| Alex G|
+| Sarah | Alex G |
 
-| Impossible Germany| Wilco|
+| Impossible Germany | Wilco |
 
-| Write A List of Things To Look Forward To| Courtney Barnett|
+| Write A List of Things To Look Forward To | Courtney Barnett |
 
-| After The Earthquake| Alvvays|
+| After The Earthquake | Alvvays |
 
-| Watching Strangers Smile| Parquet Courts|
+| Watching Strangers Smile | Parquet Courts |

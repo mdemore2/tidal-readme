@@ -8,7 +8,7 @@ Github README Tidal Integration
 
 | Track | Artist |
 | :-: | :-: |
-{% for track in last_month_tracks %}
+{% for track in last_month_tracks -%}
 | {{track.name}} | {{track.artist.name}} |
 {% endfor %}
 
@@ -16,6 +16,6 @@ Github README Tidal Integration
 
 | Track | Artist |
 | :-: | :-: |
-{% for track in last_year_tracks %}
+{% for track in last_year_tracks -%}
 | {{track.name}} | {{track.artist.name}} |
 {% endfor %}

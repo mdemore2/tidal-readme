@@ -50,7 +50,9 @@ output_file = "README.md"
 readme_template = environment.get_template("template.md")
 context = {
     "last_month_tracks": last_month_tracks,
-    "last_year_tracks": last_year_tracks
+    "last_year_tracks": last_year_tracks,
+    "last_month_img": last_month_thumbnail_url,
+    "last_year_img": last_year_thumbnail_url
 }
 with open(output_file, mode="w") as output:
     output.write(readme_template.render(context))

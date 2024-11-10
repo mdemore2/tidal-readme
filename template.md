@@ -6,6 +6,8 @@ Github README Tidal Integration
 
 ### Last month
 
+![Last Month]({{last_month_img}})
+
 | Track | Artist |
 | :-: | :-: |
 {% for track in last_month_tracks -%}
@@ -13,6 +15,8 @@ Github README Tidal Integration
 {% endfor %}
 
 ### Last year
+
+![Last Year]({{last_year_img}})
 
 | Track | Artist |
 | :-: | :-: |

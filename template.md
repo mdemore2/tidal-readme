@@ -13,6 +13,8 @@ You MUST set your environmental variables to authenticate with Tidal for this to
 
 Make sure you do not commit the tokens to your repository.
 The GitHub Action workflow is configured to run on a push event or on the first of every month.
+Don't forget to change your repository settings to allow Workflows read **and write** permissions!
+*Found under Actions &rarr; General in repository settings on GitHub.*
 
 Customize `template.md` to your heart's content and dig into [python-tidal](https://github.com/tamland/python-tidal) to pull some playlists of your own!
 

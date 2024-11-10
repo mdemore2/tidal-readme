@@ -1,0 +1,33 @@
+name: Update README
+
+on:
+  push:
+    branches: [master, main]
+  schedule:
+    - cron: "0 8 1 * *"
+  workflow_dispatch:
+
+jobs:
+  Update-README:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Install python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Render README template
+        run: python app.py
+        env:
+          TOKEN_TYPE: ${{secrets.TOKEN_TYPE}}
+          ACCESS_TOKEN: ${{secrets.ACCESS_TOKEN}}
+          REFRESH_TOKEN: ${{secrets.REFRESH_TOKEN}}
+          EXPIRY_TIME: ${{secrets.EXPIRY_TIME}}
+      - name: Publish README
+        uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          BRANCH_NAME: "main"

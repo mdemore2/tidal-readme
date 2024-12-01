@@ -31,15 +31,15 @@ Get these using `init_auth.py`:
 
 ### Last month
 
-![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZDZiZmZlZGMvNzhiZi80ZmQ5L2E4NzgvM2RiYjgxNmQxODE5IhBNeSBNb3N0IExpc3RlbmVkIgdPQ1RPQkVSKgcjQ0JBREZGMAQ?token=2c0dfadb5f6ca6c55b5fc40aa3ca21eee5b4d1fd)
+![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZTJlODJjNTMvZDVmOC80ODU2L2E3ZTMvZTY5MjNhYWViZTNlIhBNeSBNb3N0IExpc3RlbmVkIghOT1ZFTUJFUioHI0ZDQUVEODAE?token=dd317d021fd917cda03b8382badcf10e092e0d0c)
 
 | Track | Artist |
 | :-: | :-: |
-| Just Shadows | Parquet Courts |
-| 4 American Dollars | U.S. Girls |
-| Impostor Syndrome | Sidney Gish |
-| Expert In A Dying Field | The Beths |
-| to Perth, before the border closes | Julia Jacklin |
+| Add Up My Love | Clairo |
+| Red Wine Supernova | Chappell Roan |
+| Thinking About You | Faye Webster |
+| Hot Rod | Dayglow |
+| From The Start | Laufey |
 
 
 ### Last year

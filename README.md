@@ -31,15 +31,15 @@ Get these using `init_auth.py`:
 
 ### Last month
 
-![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZTJlODJjNTMvZDVmOC80ODU2L2E3ZTMvZTY5MjNhYWViZTNlIhBNeSBNb3N0IExpc3RlbmVkIghOT1ZFTUJFUioHI0ZDQUVEODAE?token=dd317d021fd917cda03b8382badcf10e092e0d0c)
+![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZjIxNDUyZDQvMzJkYi80YjVkLzk5NmIvYzc1M2E4OTg2M2E3IhBNeSBNb3N0IExpc3RlbmVkIghERUNFTUJFUioHI0E4RjdDMjAE?token=dde0be81ac61889153852d297e6be0d7f7bb77d0)
 
 | Track | Artist |
 | :-: | :-: |
-| Add Up My Love | Clairo |
-| Red Wine Supernova | Chappell Roan |
 | Thinking About You | Faye Webster |
+| Angelica | Wet Leg |
+| Add Up My Love | Clairo |
 | Hot Rod | Dayglow |
-| From The Start | Laufey |
+| Expert In A Dying Field | The Beths |
 
 
 ### Last year

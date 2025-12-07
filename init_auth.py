@@ -8,7 +8,8 @@ future.result()
 
 token_type = session.token_type
 access_token = session.access_token
-refresh_token = session.refresh_token # Not needed if you don't care about refreshing
+# Not needed if you don't care about refreshing
+refresh_token = session.refresh_token
 expiry_time = session.expiry_time
 
 print("TOKEN_TYPE=", token_type)

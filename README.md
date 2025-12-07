@@ -31,25 +31,25 @@ Get these using `init_auth.py`:
 
 ### Last month
 
-![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZjIxNDUyZDQvMzJkYi80YjVkLzk5NmIvYzc1M2E4OTg2M2E3IhBNeSBNb3N0IExpc3RlbmVkIghERUNFTUJFUioHI0E4RjdDMjAE?token=dde0be81ac61889153852d297e6be0d7f7bb77d0)
+![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokMDEwNmExZTAvY2IwZC80ZThjL2JkMmMvN2ViMGVkNTNiOTZjIhBNeSBNb3N0IExpc3RlbmVkIghOT1ZFTUJFUioHI0E4RjdDMjAE?token=3fb9cafcdb64233b921e745d484ae67cafca863c)
 
 | Track | Artist |
 | :-: | :-: |
-| Thinking About You | Faye Webster |
-| Angelica | Wet Leg |
-| Add Up My Love | Clairo |
-| Hot Rod | Dayglow |
-| Expert In A Dying Field | The Beths |
+| Cherry Hard Candy | Snocaps |
+| Avalanche | Snocaps |
+| Heathcliff | Snocaps |
+| Coast | Snocaps |
+| You In Rehab | Snocaps |
 
 
 ### Last year
 
-![Last Year](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBBokNjU1OWEzMjkvYmE0Ny80MDczLzljNTYvMjdhMDM4NDIyZDU2GiQ5MDA4ZjJkNS9kMDM0LzRjYTkvODM2ZC83Yzg2NjQwNjkwZDUaJDhjZWVkYTI1LzZkYjcvNDI5Ny9hZjZiLzhkZDEyMjNjNWYwYiIQTXkgTW9zdCBMaXN0ZW5lZCIEMjAyMyoHI0Y5QTE5MjAD?token=913aec29605d10ed168e3e4547cee76595f16406)
+![Last Year](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBBokNGQ3ZTVmZGIvZjNmMi80MmQwL2FkNGUvMzMwZDE4ZGFmNjRhGiQyODcxMTM0Mi83NDRiLzQ3MDUvYWMzNC9kN2MxNjVhNzVhMTUaJDNiZDYxOGJlLzZkMTIvNDA1ZS84MjBjLzNmNjQ4OTM3ZDk4MiIQTXkgTW9zdCBMaXN0ZW5lZCIEMjAyNCoHI0E1RTNGRjAD?token=c7fc1191a1c724151271c45e245942903bd523fa)
 
 | Track | Artist |
 | :-: | :-: |
-| Sarah | Alex G |
-| Impossible Germany | Wilco |
-| Write A List of Things To Look Forward To | Courtney Barnett |
-| After The Earthquake | Alvvays |
-| Watching Strangers Smile | Parquet Courts |
+| Angelica | Wet Leg |
+| Expert In A Dying Field | The Beths |
+| All I Do | Bully |
+| Shotgun | Soccer Mommy |
+| Add Up My Love | Clairo |

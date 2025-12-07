@@ -12,6 +12,6 @@ ratelimit==2.2.1
 requests==2.32.3
 requests-oauthlib==2.0.0
 six==1.16.0
-tidalapi==0.8.0
+tidalapi==0.8.9
 typing_extensions==4.12.2
 urllib3==2.2.3

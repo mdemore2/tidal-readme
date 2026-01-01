@@ -31,15 +31,15 @@ Get these using `init_auth.py`:
 
 ### Last month
 
-![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokMDEwNmExZTAvY2IwZC80ZThjL2JkMmMvN2ViMGVkNTNiOTZjIhBNeSBNb3N0IExpc3RlbmVkIghOT1ZFTUJFUioHI0E4RjdDMjAE?token=3fb9cafcdb64233b921e745d484ae67cafca863c)
+![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokN2E1NDQwNmYvYTBjZi80MTZjLzhiYjAvMjgyZjFkOTU2Njg1IhBNeSBNb3N0IExpc3RlbmVkIghERUNFTUJFUioHI0E1RTNGRjAE?token=60cbcf401fa72516f626b040b28565154547d6c7)
 
 | Track | Artist |
 | :-: | :-: |
-| Cherry Hard Candy | Snocaps |
+| When A Good Man Cries | CMAT |
+| Cobra | Geese |
+| Potion | Djo |
+| Lonely Cosmos | King Gizzard & The Lizard Wizard |
 | Avalanche | Snocaps |
-| Heathcliff | Snocaps |
-| Coast | Snocaps |
-| You In Rehab | Snocaps |
 
 
 ### Last year

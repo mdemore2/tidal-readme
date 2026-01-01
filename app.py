@@ -19,7 +19,7 @@ session.load_oauth_session(token_type, access_token,
 home = session.home()
 
 prev = date.today().replace(day=1) - timedelta(days=1)
-year = (date.today() - timedelta(days=1)).year
+year = str((date.today() - timedelta(days=1)).year)
 month = prev.strftime('%B %Y')
 print(f'Looking for year: {year}')
 print(f'Looking for month: {month}')
@@ -28,6 +28,7 @@ print(f'Looking for month: {month}')
 for category in home.categories:
     if category.title == "Your listening history":
         for item in category.items:
+            print(item.title)
             if item.title == year:
                 print(f'Found: {item.title}')
                 last_year = item.get()

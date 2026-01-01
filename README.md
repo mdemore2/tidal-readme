@@ -44,12 +44,12 @@ Get these using `init_auth.py`:
 
 ### Last year
 
-![Last Year](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBBokNGQ3ZTVmZGIvZjNmMi80MmQwL2FkNGUvMzMwZDE4ZGFmNjRhGiQyODcxMTM0Mi83NDRiLzQ3MDUvYWMzNC9kN2MxNjVhNzVhMTUaJDNiZDYxOGJlLzZkMTIvNDA1ZS84MjBjLzNmNjQ4OTM3ZDk4MiIQTXkgTW9zdCBMaXN0ZW5lZCIEMjAyNCoHI0E1RTNGRjAD?token=c7fc1191a1c724151271c45e245942903bd523fa)
+![Last Year](https://resources.tidal.com/images/rewind_icon_2025_267.jpg?rewind2025)
 
 | Track | Artist |
 | :-: | :-: |
-| Angelica | Wet Leg |
-| Expert In A Dying Field | The Beths |
-| All I Do | Bully |
-| Shotgun | Soccer Mommy |
 | Add Up My Love | Clairo |
+| Thinking About You | Faye Webster |
+| Loretta | Ginger Root |
+| Show Me How | Men I Trust |
+| Good Grief | Dr. Dog |

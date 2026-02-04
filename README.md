@@ -31,15 +31,15 @@ Get these using `init_auth.py`:
 
 ### Last month
 
-![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokN2E1NDQwNmYvYTBjZi80MTZjLzhiYjAvMjgyZjFkOTU2Njg1IhBNeSBNb3N0IExpc3RlbmVkIghERUNFTUJFUioHI0E1RTNGRjAE?token=60cbcf401fa72516f626b040b28565154547d6c7)
+![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZTJlODJjNTMvZDVmOC80ODU2L2E3ZTMvZTY5MjNhYWViZTNlIhBNeSBNb3N0IExpc3RlbmVkIgdKQU5VQVJZKgcjRkNBRUQ4MAQ?token=51367158b70e0f39181b6fa922a4766e7a6c226b)
 
 | Track | Artist |
 | :-: | :-: |
-| When A Good Man Cries | CMAT |
-| Cobra | Geese |
-| Potion | Djo |
-| Lonely Cosmos | King Gizzard & The Lizard Wizard |
-| Avalanche | Snocaps |
+| Add Up My Love | Clairo |
+| Anytime, Always | Wallows |
+| Ego Death At A Bachelorette Party | Hayley Williams |
+| Picture Window | Japanese Breakfast |
+| Fat Dog | Dr. Dog |
 
 
 ### Last year

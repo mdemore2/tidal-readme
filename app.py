@@ -19,7 +19,7 @@ session.load_oauth_session(token_type, access_token,
 home = session.home()
 
 prev = date.today().replace(day=1) - timedelta(days=1)
-year = str((date.today() - timedelta(days=1)).year)
+year = str(date.today().year - 1)
 month = prev.strftime('%B %Y')
 print(f'Looking for year: {year}')
 print(f'Looking for month: {month}')

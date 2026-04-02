@@ -31,15 +31,15 @@ Get these using `init_auth.py`:
 
 ### Last month
 
-![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokY2FkYTM4NTIvNzhjNy80NjI4Lzg2NTUvNzE1ODEyMTRiOWQ2IhBNeSBNb3N0IExpc3RlbmVkIghGRUJSVUFSWSoHI0ZCRDI5MzAE?token=0e39395c605895803db218459ad28d8a93d9b068)
+![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokYzY2YmZkMGUvMWJiNC80MWMxL2FjMDkvZWE1Zjk1YzU3MzkxIhBNeSBNb3N0IExpc3RlbmVkIgVNQVJDSCoHI0Y5QTE5MjAE?token=7bac6479c5be0b6aaeb3005cb248502dc2095bfb)
 
 | Track | Artist |
 | :-: | :-: |
-| Good Grief | Dr. Dog |
-| Thinking About You | Faye Webster |
-| Add Up My Love | Clairo |
-| Potion | Djo |
-| The Edge | Sydney Ross Mitchell |
+| Cobra | Geese |
+| Count The Ways | The Last Dinner Party |
+| Townies | Wednesday |
+| Tree Six Foive | CMAT |
+| Listen2me | Foxwarren |
 
 
 ### Last year

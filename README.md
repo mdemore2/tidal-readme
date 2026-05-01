@@ -31,15 +31,15 @@ Get these using `init_auth.py`:
 
 ### Last month
 
-![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokYzY2YmZkMGUvMWJiNC80MWMxL2FjMDkvZWE1Zjk1YzU3MzkxIhBNeSBNb3N0IExpc3RlbmVkIgVNQVJDSCoHI0Y5QTE5MjAE?token=7bac6479c5be0b6aaeb3005cb248502dc2095bfb)
+![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokNzEzZThiMmYvNGZhNS80NGQ0L2JlZGQvYTYwOGZmODdhNDQ4IhBNeSBNb3N0IExpc3RlbmVkIgVBUFJJTCoHI0Y5QTE5MjAE?token=dc3eebd328545e32551de64624b68f5ef258f9df)
 
 | Track | Artist |
 | :-: | :-: |
-| Cobra | Geese |
-| Count The Ways | The Last Dinner Party |
-| Townies | Wednesday |
-| Tree Six Foive | CMAT |
-| Listen2me | Foxwarren |
+| Wristwatch | MJ Lenderman |
+| One Thing At A Time | Courtney Barnett |
+| Magpie | Peach Pit |
+| Brian's Movie | Peach Pit |
+| Mantis | Courtney Barnett |
 
 
 ### Last year

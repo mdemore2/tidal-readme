@@ -31,15 +31,15 @@ Get these using `init_auth.py`:
 
 ### Last month
 
-![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokNzEzZThiMmYvNGZhNS80NGQ0L2JlZGQvYTYwOGZmODdhNDQ4IhBNeSBNb3N0IExpc3RlbmVkIgVBUFJJTCoHI0Y5QTE5MjAE?token=dc3eebd328545e32551de64624b68f5ef258f9df)
+![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokYjc3NTM1ZjUvYzQwZi80YjhmLzlmMmUvODJlNjNjZmE5ZTdhIhBNeSBNb3N0IExpc3RlbmVkIgNNQVkqByNGQkQyOTMwBA?token=2ec80906388f2d63cf001940be955ea98d745035)
 
 | Track | Artist |
 | :-: | :-: |
-| Wristwatch | MJ Lenderman |
-| One Thing At A Time | Courtney Barnett |
+| Shotput | Still Woozy |
 | Magpie | Peach Pit |
-| Brian's Movie | Peach Pit |
-| Mantis | Courtney Barnett |
+| Shoplifter | Ty Segall |
+| Townies | Wednesday |
+| Without Eyes | Brooks Nielsen |
 
 
 ### Last year

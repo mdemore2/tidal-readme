@@ -31,15 +31,15 @@ Get these using `init_auth.py`:
 
 ### Last month
 
-![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokYjc3NTM1ZjUvYzQwZi80YjhmLzlmMmUvODJlNjNjZmE5ZTdhIhBNeSBNb3N0IExpc3RlbmVkIgNNQVkqByNGQkQyOTMwBA?token=2ec80906388f2d63cf001940be955ea98d745035)
+![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZWY1YzNkMDcvYzhkMC80YWZlL2E0MmUvYTJkZWM5YWY4YTUyIhBNeSBNb3N0IExpc3RlbmVkIgRKVU5FKgcjRkJEMjkzMAQ?token=736c71379225ff6517e5fbaae877dffac466890e)
 
 | Track | Artist |
 | :-: | :-: |
+| I Want You (Fever) | MOMMA |
 | Shotput | Still Woozy |
-| Magpie | Peach Pit |
-| Shoplifter | Ty Segall |
-| Townies | Wednesday |
-| Without Eyes | Brooks Nielsen |
+| Making Flippy Floppy (2005 Remaster) | Talking Heads |
+| Blue Hair | TV Girl |
+| What Once Was | Her's |
 
 
 ### Last year

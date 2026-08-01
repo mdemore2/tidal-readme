@@ -31,15 +31,15 @@ Get these using `init_auth.py`:
 
 ### Last month
 
-![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZWY1YzNkMDcvYzhkMC80YWZlL2E0MmUvYTJkZWM5YWY4YTUyIhBNeSBNb3N0IExpc3RlbmVkIgRKVU5FKgcjRkJEMjkzMAQ?token=736c71379225ff6517e5fbaae877dffac466890e)
+![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokMWI1ZmU2NTYvYzI1ZC80MTU3LzhmNGEvMWE1NGU3OGNlNjY2IhBNeSBNb3N0IExpc3RlbmVkIgRKVUxZKgcjRkNBRUQ4MAQ?token=59bf9ab4d3bf689e9bdcf8ea59f96e7b89ce3401)
 
 | Track | Artist |
 | :-: | :-: |
-| I Want You (Fever) | MOMMA |
-| Shotput | Still Woozy |
-| Making Flippy Floppy (2005 Remaster) | Talking Heads |
-| Blue Hair | TV Girl |
-| What Once Was | Her's |
+| Magpie | Peach Pit |
+| Metal | The Beths |
+| Chasm | Beach Bunny |
+| Big Pink Bubble | Beach Bunny |
+| Mega Circuit | Japanese Breakfast |
 
 
 ### Last year

@@ -31,15 +31,15 @@ Get these using `init_auth.py`:
 
 ### Last month
 
-![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokMWI1ZmU2NTYvYzI1ZC80MTU3LzhmNGEvMWE1NGU3OGNlNjY2IhBNeSBNb3N0IExpc3RlbmVkIgRKVUxZKgcjRkNBRUQ4MAQ?token=59bf9ab4d3bf689e9bdcf8ea59f96e7b89ce3401)
+![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZTJlODJjNTMvZDVmOC80ODU2L2E3ZTMvZTY5MjNhYWViZTNlIhBNeSBNb3N0IExpc3RlbmVkIgZBVUdVU1QqByNBOEY3QzIwBA?token=4be570d8d83a4e9638116e5d06a548c6fa6e054b)
 
 | Track | Artist |
 | :-: | :-: |
-| Magpie | Peach Pit |
-| Metal | The Beths |
-| Chasm | Beach Bunny |
-| Big Pink Bubble | Beach Bunny |
 | Mega Circuit | Japanese Breakfast |
+| Add Up My Love | Clairo |
+| Sad Disco | Flipturn |
+| Brian's Movie | Peach Pit |
+| Mantis | Courtney Barnett |
 
 
 ### Last year
